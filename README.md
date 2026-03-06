@@ -1,27 +1,37 @@
 # 안녕하세요, 박민수입니다 👋
 
-저는 컴퓨터공학과와 빅데이터융합을 전공하며, 최신 IT 기술과 창의적 문제 해결에 열정을 가진 개발자입니다. 다양한 프로젝트와 실무 경험을 통해 웹 개발, 디자인, AI 및 딥러닝 분야에서 역량을 쌓아왔습니다.
+저는 **AI 솔루션과 업무 시스템을 실제 운영 가능한 형태로 구현하는 개발자**입니다.  
+실시간 STT 연동, 온디바이스 AI 적용, 사내 문서·결재 시스템 구축 등 다양한 프로젝트를 수행하며, 단순한 기능 구현을 넘어 **실제 현업에서 사용할 수 있는 서비스와 운영 구조를 만드는 경험**을 쌓아왔습니다.
 
-## 🚀 기술 스택
-- **프로그래밍 언어**: Python (90%), HTML5 (80%), CSS3 (80%), C (70%), JSP (60%)
-- **AI & 딥러닝**: YOLO (85%), NLP (70%), Keras (65%), TensorFlow (60%), PyTorch (50%)
-- **컴퓨터 비전 & GPU**: CUDA (65%), OpenCV (40%)
-- **디자인 툴**: Photoshop
+## What I Do
+- 실시간 STT 연동 및 음성 AI 적용
+- 사내 업무 시스템 디지털 전환 및 운영 자동화
+- AI 모델의 서비스 적용 및 온디바이스 추론 구조 검토
+- 실서비스 운영 중 발생하는 이슈 분석 및 안정화
 
-## 💼 경력 및 프로젝트
-- **NVIDIA AI Academy (2024.7 - 2024.12)**  
-  AI 및 딥러닝 기초부터 실무 응용까지 GPU 가속 컴퓨팅, 영상처리, 자연어 처리 기술 습득  
-- **(주)와이드아이 (2023.6 - 2024.6, 프리랜서)**  
-  CSS3, HTML5, 포토샵을 활용하여 웹 디자인 및 UI/UX 개선 프로젝트 수행  
-- **다양한 프로젝트 경험**  
-  이론과 실무를 겸비한 창의적 솔루션 도출 및 문제 해결 역량 강화
+## Featured Projects
 
-## 🎯 목표 및 가치
-빠르게 변화하는 IT 환경 속에서 최신 기술을 적용한 혁신적인 솔루션을 구현하며, 협업과 지속적인 학습을 통해 성장하는 개발자가 되고자 합니다.
+### 1. Zoom 기반 연구노트·결재 통합 관리 시스템
+- 사내 연구노트 작성, 결재, 문서 관리 프로세스를 웹 기반 통합 시스템으로 전환
+- **1인 개발**로 기획, 설계, 프론트엔드, 백엔드, DB, 배포, 운영, 유지보수 수행
+- 문서번호 자동화, 디지털 서명, PDF 저장, 관리자 운영 기능 구현
 
-## 📫 연락 및 소셜
-- **Email**: [minsu1009@naver.com]
-- **GitHub**: [https://github.com/hangpark123](https://github.com/hangpark123)
-- **포트폴리오**: [Notion 포트폴리오](https://eight-penguin-b64.notion.site/174d25d0d71d80e5b0eec88949085272)
+### 2. AICC 소리샘 탐지 모델 개선 및 온디바이스 적용
+- 음성사서함(소리샘) 탐지 정확도 개선 및 고객사 배포형 추론 구조 적용 프로젝트
+- 데이터셋 정비, 전처리 개선, 모델 성능 개선 협업, 온디바이스 적용 및 테스트 참여
+- 팀 기준 탐지 정확도 **14%p 향상(66.53% → 80.85%)**
 
-감사합니다!
+### 3. 실시간 STT 연동 및 모니터링 시스템
+- Python(Asyncio/gRPC) 기반 실시간 STT 연동 클라이언트 및 모니터링 대시보드 구축
+- TX/RX 로그 시각화, 운영 검증 환경, WAV 기반 장애 분석 기능 구현
+
+## Tech
+- **AI / Audio**: PyTorch, TensorFlow Lite, Librosa, STT, Audio Signal Processing
+- **Backend**: Python, Node.js, Express, MySQL, gRPC, WebSocket
+- **Frontend**: React, JavaScript, HTML/CSS
+- **Integration**: Zoom Apps SDK, OAuth, WebRTC(PeerJS)
+
+## Links
+- GitHub: https://github.com/hangpark123
+- Portfolio: https://eight-penguin-b64.notion.site/174d25d0d71d80e5b0eec88949085272
+- Email: minsu1009@naver.com
